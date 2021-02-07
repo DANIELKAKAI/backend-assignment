@@ -8,6 +8,7 @@ A simple graphql api backend using:
 clone the repository then run the following commands:
 
 ```
+$ cd backend-assignment
 $ npm install
 $ npm run demo-backend
 
