@@ -1,4 +1,4 @@
-# Backend assignment
+# Backend boilerplate
 A simple graphql api backend using:
 * Graphql
 * Mongodb
